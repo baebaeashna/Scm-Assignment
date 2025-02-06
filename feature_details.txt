@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Changes made directly in the main branch
+=======
+Details of a new feature to be implemented.
+>>>>>>> feature-update
+Feature: User authentication system and User analytics dashboard.
